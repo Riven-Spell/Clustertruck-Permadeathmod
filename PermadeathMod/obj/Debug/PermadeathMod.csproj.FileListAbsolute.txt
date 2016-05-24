@@ -1,0 +1,13 @@
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\PermadeathMod.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\PermadeathMod.pdb
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\Assembly-CSharp.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\TesseractModLoader.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\UnityEngine.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\UnityEngine.UI.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\bin\Debug\Mono.Security.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\obj\Debug\PermadeathMod.csprojResolveAssemblyReference.cache
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\obj\Debug\PermadeathMod.Properties.Resources.resources
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\obj\Debug\PermadeathMod.csproj.GenerateResource.Cache
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\obj\Debug\PermadeathMod.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod\PermadeathMod\obj\Debug\PermadeathMod.pdb
