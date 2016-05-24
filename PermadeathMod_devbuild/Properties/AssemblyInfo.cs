@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PermadeathMod")]
+[assembly: AssemblyTitle("PermadeathMod_devbuild")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PermadeathMod")]
+[assembly: AssemblyProduct("PermadeathMod_devbuild")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("419117b3-3706-40ae-bb91-0a40effd6675")]
+[assembly: Guid("6b9c4709-b5aa-498c-a6de-2fa51b3165ed")]
 
 // Version information for an assembly consists of the following four values:
 //

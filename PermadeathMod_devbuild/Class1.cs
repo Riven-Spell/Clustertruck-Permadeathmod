@@ -16,20 +16,19 @@ namespace Mod
 
     public class modComponent : MonoBehaviour
     {
-        GameManager gm;
-        Manager m;
-        public void Start() {
-            gm = FindObjectOfType<GameManager>();
-            m = FindObjectOfType<Manager>();
+        public void Start()
+        {
+
         }
 
-        public void Update() {
+        public void Update()
+        {
             if (GameManager.mapDeaths != 0)
             {
-                m.Play(true);
+                FindObjectOfType<Manager>().NewGame();
                 GameManager.mapDeaths = 0;
             }
-            if(TesseractModLoader.)
         }
+
     }
 }

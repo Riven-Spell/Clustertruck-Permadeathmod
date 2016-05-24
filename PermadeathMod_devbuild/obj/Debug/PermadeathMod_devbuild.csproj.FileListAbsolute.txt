@@ -1,0 +1,11 @@
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\PermadeathMod_devbuild.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\PermadeathMod_devbuild.pdb
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\Assembly-CSharp.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\TesseractModLoader.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\UnityEngine.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\UnityEngine.UI.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\bin\Debug\Mono.Security.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\obj\Debug\PermadeathMod_devbuild.csprojResolveAssemblyReference.cache
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\obj\Debug\PermadeathMod_devbuild.dll
+c:\users\priva\documents\visual studio 2015\Projects\PermadeathMod_devbuild\PermadeathMod_devbuild\obj\Debug\PermadeathMod_devbuild.pdb
